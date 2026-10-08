@@ -46,17 +46,11 @@ Git • GitHub • Vite • JWT • Nodemailer
 ### 🔹 Navridhi
 Full-stack digital growth agency platform built with the MERN stack.
 
-### 🔹 HR Consultancy
-Recruitment management platform for jobs, candidates and applications.
-
 ### 🔹 Taskflow
 Project and task management application with authentication and dashboard.
 
 ### 🔹 WorkWise
 Employee management system built using the MERN stack.
-
-### 🔹 Retizo.AI
-AI-focused web application exploring intelligent web experiences.
 
 ### 🔹 BookVerse
 Modern online bookstore web application.
